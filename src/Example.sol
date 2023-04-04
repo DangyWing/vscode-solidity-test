@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.19;
 
-import {SafeTransferLib} from "solmate/utils/SafeTransferLib.sol";
+// import {SafeTransferLib} from "solmate/utils/SafeTransferLib.sol";
 
 contract Example {
     string public ANIMAL;
