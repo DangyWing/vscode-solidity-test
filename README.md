@@ -2,7 +2,7 @@
 
 1. Clone this repo
 2. run `forge install transmissions11/solmate --no-commit`
-3. Open `contracts/Example.sol`
+3. Open `src/Example.sol`
 4. Remove `ANIMAL` from line 10
 5. Trigger VSCode Autocomplete where `ANIMAL` was
 6. Uncomment line 4 (SafeTransferLib import)
